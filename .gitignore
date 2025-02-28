@@ -71,3 +71,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+/Assets/3D Game Kit - Character Pack
+/Assets/3D Gamekit - Environment Pack
+/Assets/BlockOuts
+/Assets/Samples
